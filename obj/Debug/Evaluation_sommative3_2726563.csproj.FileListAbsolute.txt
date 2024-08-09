@@ -1,0 +1,7 @@
+C:\Users\salim\OneDrive\Bureau\assurance logeciel\Evaluation_sommative3_2726563\Evaluation_sommative3_2726563\bin\Debug\Evaluation_sommative3_2726563.exe.config
+C:\Users\salim\OneDrive\Bureau\assurance logeciel\Evaluation_sommative3_2726563\Evaluation_sommative3_2726563\bin\Debug\Evaluation_sommative3_2726563.exe
+C:\Users\salim\OneDrive\Bureau\assurance logeciel\Evaluation_sommative3_2726563\Evaluation_sommative3_2726563\bin\Debug\Evaluation_sommative3_2726563.pdb
+C:\Users\salim\OneDrive\Bureau\assurance logeciel\Evaluation_sommative3_2726563\Evaluation_sommative3_2726563\obj\Debug\Evaluation_sommative3_2726563.csproj.AssemblyReference.cache
+C:\Users\salim\OneDrive\Bureau\assurance logeciel\Evaluation_sommative3_2726563\Evaluation_sommative3_2726563\obj\Debug\Evaluation_sommative3_2726563.csproj.CoreCompileInputs.cache
+C:\Users\salim\OneDrive\Bureau\assurance logeciel\Evaluation_sommative3_2726563\Evaluation_sommative3_2726563\obj\Debug\Evaluation_sommative3_2726563.exe
+C:\Users\salim\OneDrive\Bureau\assurance logeciel\Evaluation_sommative3_2726563\Evaluation_sommative3_2726563\obj\Debug\Evaluation_sommative3_2726563.pdb
